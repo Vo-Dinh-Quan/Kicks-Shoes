@@ -20,6 +20,15 @@ Kicks is a sleek and modern **e-commerce website** designed for showcasing and s
 - **🌐 Laravel**: PHP framework used for routing, database management, and handling back-end processes.
 - **💾 MySQL**: Database management for storing product information, user data, and orders.
 ---
+## 🎥 Project Demo
+
+- **🛒 Client-side Demo**: [Watch here](https://streamable.com/8abldw)  
+  Explore the user experience: browse products, view product details, add items to the cart, and complete the checkout process.
+
+- **🛠️ Admin-side Demo**: [Watch here](https://streamable.com/ar4boq)  
+  Discover the admin functionalities: manage products, oversee customer orders, and handle user accounts efficiently.
+
+
 ## 🚀 Installation Guide
 
 ### 1. Clone the Repository
